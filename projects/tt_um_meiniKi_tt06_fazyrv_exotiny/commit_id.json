@@ -1,0 +1,9 @@
+{
+  "app": "Tiny Tapeout tt06 d9a6d620",
+  "repo": "https://github.com/meiniKi/tt06-FazyRV-ExoTiny",
+  "commit": "a371d3b3586e662493b0d7c6bd47bf643922959a",
+  "workflow_url": "https://github.com/meiniKi/tt06-FazyRV-ExoTiny/actions/runs/8648346092",
+  "sort_id": 1713860468385,
+  "openlane_version": "OpenLane f691c8c0712ca6c6645e3fd548985b3cbcf08c78",
+  "pdk_version": "open_pdks e0f692f46654d6c7c99fc70a0c94a080dab53571"
+}
